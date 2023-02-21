@@ -1,0 +1,28 @@
+{
+  "name": "website-dev-01",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.6",
+    "@reduxjs/toolkit": "^1.9.3",
+    "@types/node": "18.14.0",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "lodash": "^4.17.21",
+    "next": "13.1.6",
+    "next-redux-wrapper": "^8.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "redux-persist": "^6.0.0",
+    "swiper": "^9.0.5",
+    "swr": "^2.0.3",
+    "typescript": "4.9.5",
+    "use-onclickoutside": "^0.4.1"
+  }
+}
